@@ -26,8 +26,8 @@ Com o projeto finalizado, será obtido um instrumento musical de interface digit
 </p>
 
 ## Exemplo de Funcionamento da Aplicação
+![exemplo aluramidi](https://github.com/ArlindoMessias/JavaScript-AluraMidi/assets/47644068/1d9c9ed5-7f19-46bd-9223-8e2125d3a653)
 
-exemplo
 ## Pré-requisitos
 
 :warning: Para a execução desse projeto é necessário baixar todos os arquivos do projeto.
